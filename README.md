@@ -1,4 +1,4 @@
-# smart_medicine 项目简介
+# medicine 项目简介
 
 这是一个基于 SpringBoot 开发的 Java Web 项目，旨在提供智慧医药服务。
 

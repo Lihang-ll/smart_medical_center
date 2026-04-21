@@ -1,4 +1,4 @@
-# 🏥 智慧医疗健康中心系统 (Smart Medical Center)
+# 🏥 AI医疗健康中心系统 (Smart Medical Center)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg" alt="Spring Boot">
